@@ -6,7 +6,6 @@
 - 🔢 As a Maths aficionado, I master $\LaTeX$
 - 🐧 Proud Linux user
 
-[![Website](https://img.shields.io/badge/WEBSITE-WEBSITE?style=for-the-badge&color=%23ff7000)](https://diamondsbattle.tech)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-j-16b6492b9)
 &nbsp;&nbsp;
 
